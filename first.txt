@@ -1,1 +1,5 @@
 8/11 13:17 gitの練習開始
+git add
+git commit
+---------
+git status
